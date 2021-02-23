@@ -1,0 +1,4 @@
+com\configurationproperties\springboot\SpringBootApp.class
+com\configurationproperties\springboot\config\UserProperties.class
+META-INF\spring-configuration-metadata.json
+com\configurationproperties\springboot\service\UserService.class

@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.configurationproperties.springboot.config.UserProperties",
+      "name": "user",
+      "type": "com.configurationproperties.springboot.config.UserProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.configurationproperties.springboot.config.UserProperties",
+      "name": "user.id",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.configurationproperties.springboot.config.UserProperties",
+      "name": "user.last-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.configurationproperties.springboot.config.UserProperties",
+      "name": "user.name",
+      "type": "java.lang.String"
+    }
+  ]
+}

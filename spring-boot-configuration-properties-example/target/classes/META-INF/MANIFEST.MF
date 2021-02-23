@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 15.0.1
+Implementation-Title: Spring Boot Configuration Properties Example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.configurationproperties.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-co
+ nfiguration-properties-example/
+Created-By: Maven Integration for Eclipse
+
